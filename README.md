@@ -1,1 +1,1 @@
-# javascript
+# Базовый курс по  javascript
